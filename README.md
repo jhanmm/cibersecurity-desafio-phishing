@@ -41,7 +41,7 @@ Depois você vai copiar o código fonte da página do facebook colar no bloco de
 ![image](https://github.com/user-attachments/assets/3c6902b2-9488-458e-a925-2c8583eea2b0)
 
 
-Voltando pro setoolkit vai ser pedido o caminho para a pasta do website que deseja clonar, copia a pasta que criou do facebook com o código fonte modificado .
+Voltando pro setoolkit vai ser pedido o caminho para a pasta do website que deseja clonar, copia a pasta que criou do facebook com o código fonte modificado e cole o caminho dentro do terminal.
 
 ![image](https://github.com/user-attachments/assets/8a162ee4-682a-4dab-85c3-9025a9bc6e25)
 
