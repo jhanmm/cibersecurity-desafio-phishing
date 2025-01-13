@@ -53,3 +53,10 @@ Selecione a opção 2 "Copy the entire folder", e logo depois coloque o url do f
 ## Resultado do Outro Método
 ![image](https://github.com/user-attachments/assets/907a2ad2-c33d-41e8-99d8-4576a8ded86a)
 
+
+
+
+
+
+Repositório que me ajudou nesse outro método.
+https://github.com/Weslley22Marques/cibersecurity-desafio-phishing?tab=readme-ov-file
